@@ -4,7 +4,7 @@
 <img src="https://play-lh.googleusercontent.com/VNuqXrGbFjKxNqMPVRSxnOVBKpkmOEdvQg8JrHQxOU8JWmiPOgxo7jaf--kLRLGF-w=w2560-h1440-rw" width=480 size=640>
 <h2>Compilação</h2>
 <p>Antes de iniciar o processo de compilação, siga as estapas abaixo:</p>
-<p>1 - Esteja em ambiente linux<br><br>
+<p>1 - Esteja em ambiente linux (derivado de debian)<br><br>
 2 - Instale os itens necessários para compilação com o seguinte comando:<br>
 <code>sudo apt install gcc g++ make</code><br><br>
 3 - Em seguida, instale a biblioteca Allegro 5:<br>
